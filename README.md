@@ -1,2 +1,3 @@
 # spiders
-For spider exercises.
+
+Some exercises to learn spider.
